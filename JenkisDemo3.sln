@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkisDemo3", "JenkisDemo3\JenkisDemo3.csproj", "{00221260-F45E-4F5B-B9E2-004D2860B497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnit", "XUnit\XUnit.csproj", "{AAC210A4-F0AA-4CE5-894B-E74B193F9355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00221260-F45E-4F5B-B9E2-004D2860B497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00221260-F45E-4F5B-B9E2-004D2860B497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00221260-F45E-4F5B-B9E2-004D2860B497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00221260-F45E-4F5B-B9E2-004D2860B497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC210A4-F0AA-4CE5-894B-E74B193F9355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC210A4-F0AA-4CE5-894B-E74B193F9355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC210A4-F0AA-4CE5-894B-E74B193F9355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC210A4-F0AA-4CE5-894B-E74B193F9355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63834A45-669F-4D9B-8077-FB83C6D048EF}
+	EndGlobalSection
+EndGlobal

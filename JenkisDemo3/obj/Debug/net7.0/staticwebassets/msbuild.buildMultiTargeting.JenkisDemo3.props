@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JenkisDemo3.props" />
+</Project>
